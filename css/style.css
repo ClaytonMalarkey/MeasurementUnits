@@ -56,3 +56,25 @@
     color:cyan;
     background-color: red;
 }
+body{
+    background-color: black;
+}
+header{
+    height: "50px";
+    width: "200px";
+    -ms-layout-grid: "30px";
+}
+h1{
+    color:white;
+}
+body{
+    color:white;
+    background-color: black;
+}
+nav {
+    justify-content: right;
+
+}
+img {
+    justify-self: left;
+}
